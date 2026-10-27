@@ -1,0 +1,61 @@
+; Run parameters
+integrator               = md        ; leap-frog integrator
+dt                       = VALUE_DT             
+nsteps                   = VALUE_NSTEPS   
+nstcomm                  = 100
+comm_mode                = linear
+comm_grps                = Protein non-Protein
+
+; Output control
+nstxtcout               = 50000
+nstvout                 = 50000
+nstfout                 = 50000
+nstcalcenergy           = 100
+nstenergy               = 1000
+nstlog                  = 1000
+
+; Bond parameters
+continuation            = yes       ; continuing from previous run (constraints not reapplied)
+tinit                   = 0
+constraint_algorithm    = lincs     ; holonomic constraints 
+constraints             = h-bonds   ; bonds to H are constrained 
+lincs_iter              = 1         ; accuracy of LINCS
+lincs_order             = 4         ; also related to accuracy
+
+
+; Neighbor searching and vdW (CHARMM configuration)
+cutoff-scheme           = Verlet
+nstlist                 = 20        ; largely irrelevant with Verlet
+vdwtype                 = cutoff
+vdw-modifier            = force-switch
+rlist                   = 1.2
+rvdw                    = 1.2
+rvdw-switch             = 1.0
+
+; Electrostatics
+coulombtype             = PME       ; Particle Mesh Ewald for long-range electrostatics
+rcoulomb                = 1.2       ; short-range electrostatic cutoff (in nm)
+pme_order               = 4         ; cubic interpolation
+fourierspacing          = 0.1       ; grid spacing for FFT
+
+; Temperature coupling
+tcoupl                  = Berendsen                     ; Berendsen thermostat
+tc_grps                 = Protein non-Protein
+tau_t                   = 1.0 1.0                       ; time constant, in ps
+ref_t                   = 298.15 298.15       ; reference temperature, one for each group, in K
+
+; Pressure coupling
+pcoupl                  = Berendsen                     ; pressure coupling is on for NPT
+pcoupltype              = isotropic                     ; uniform scaling of box vectors
+tau_p                   = 2.0                           ; time constant, in ps
+ref_p                   = 1.01                          ; reference pressure, in bar
+compressibility         = 4.5e-5                        ; isothermal compressibility of water, bar^-1
+
+; Periodic boundary conditions
+pbc                     = xyz       ; 3-D PBC
+
+; Dispersion correction
+DispCorr                = no ; not used with CHARMM36m
+
+; Velocity generation
+gen_vel                 = no

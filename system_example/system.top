@@ -1,0 +1,51 @@
+;; CHARMM36m FF in GROMACS format 
+;; Hen egg-white lysozyme (PDB: 1AK1) 
+;; Date:2025-07-30 09:41:13.923683
+
+ [ defaults ] 
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ 
+ 1               2               yes             1.0     1.0 
+
+; Include atomtypes 
+#include "../ff/protein_atoms.itp" 
+#include "../ff/BET_atoms.itp"
+#include "../ff/SOR_atoms.itp"
+#include "../ff/TAU_atoms.itp"
+#include "../ff/GPC_atoms.itp"
+#include "../ff/URE_atoms.itp"
+#include "../ff/SOL_atoms.itp"
+#include "../ff/CLA_atoms.itp"
+
+ [ nonbond_params ] 
+#include "../ff/BET_protein.itp"
+#include "../ff/SOR_protein.itp"
+#include "../ff/TAU_protein.itp"
+#include "../ff/GPC_protein.itp"
+#include "../ff/URE_protein.itp"
+#include "../ff/SOL_protein.itp"
+#include "../ff/CLA_protein.itp"
+
+; ; Include molecules 
+#include "../ff/PROA.itp" 
+#include "../ff/BET.itp"
+#include "../ff/SOR.itp"
+#include "../ff/TAU.itp"
+#include "../ff/GPC.itp"
+#include "../ff/URE.itp"
+#include "../ff/SOL.itp"
+#include "../ff/CLA.itp"
+
+ [ system ] 
+; Name 
+Bet:Sor:Tau:GPC:U(1:3.1:0.1:2.8:7.1) - 20 wt%
+
+[ molecules ] 
+; Compound        #mols 
+PROA           1
+BET            40
+SOR            124
+TAU            4
+GPC            112
+URE            284
+SOL            16000
+CLA            8

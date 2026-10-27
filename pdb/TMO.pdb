@@ -1,0 +1,20 @@
+TITLE     neopentane in water
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   80.000   80.000   80.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+HETATM    1  OTM TMO     1     -18.290  25.710 -11.040  1.00 20.00             O
+HETATM    2  NTM TMO     1     -18.290  26.960 -10.290  1.00 20.00             N
+HETATM    3  CT1 TMO     1     -16.930  27.250  -9.820  1.00 20.00             C
+HETATM    4  HT1 TMO     1     -16.588  26.440  -9.176  1.00 20.00             H
+HETATM    5  HT2 TMO     1     -16.930  28.185  -9.259  1.00 20.00             H
+HETATM    6  HT3 TMO     1     -16.318  27.327 -10.719  1.00 20.00             H
+HETATM    7  CT2 TMO     1     -19.200  26.840  -9.140  1.00 20.00             C
+HETATM    8  HT4 TMO     1     -19.201  27.774  -8.578  1.00 20.00             H
+HETATM    9  HT5 TMO     1     -18.864  26.028  -8.495  1.00 20.00             H
+HETATM   10  HT6 TMO     1     -20.182  26.630  -9.563  1.00 20.00             H
+HETATM   11  CT3 TMO     1     -18.750  28.060 -11.160  1.00 20.00             C
+HETATM   12  HT7 TMO     1     -18.749  28.994 -10.597  1.00 20.00             H
+HETATM   13  HT8 TMO     1     -19.760  27.848 -11.510  1.00 20.00             H
+HETATM   14  HT9 TMO     1     -18.042  28.095 -11.988  1.00 20.00             H
+TER
+ENDMDLa

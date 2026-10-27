@@ -1,0 +1,12 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     7/22/25      9:42:44      CREATED BY USER: charmm-gui              
+ATOM      1  C   URE U   1       0.048   0.000   0.000  1.00  0.00      URE 
+ATOM      2  O   URE U   1       1.275   0.000  -0.000  1.00  0.00      URE 
+ATOM      3  N1  URE U   1      -0.689   1.110  -0.000  1.00  0.00      URE 
+ATOM      4  N2  URE U   1      -0.689  -1.110   0.000  1.00  0.00      URE 
+ATOM      5  H1  URE U   1      -0.179   1.963   0.000  1.00  0.00      URE 
+ATOM      6  H2  URE U   1      -1.678   1.054   0.000  1.00  0.00      URE 
+ATOM      7  H3  URE U   1      -0.179  -1.963  -0.000  1.00  0.00      URE 
+ATOM      8  H4  URE U   1      -1.678  -1.054  -0.000  1.00  0.00      URE 
+TER       9      URE      1
+END

@@ -1,0 +1,30 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     8/16/22     12: 7:20      CREATED BY USER: apache                  
+ATOM      1  C1  SOR D   1      36.998  33.933  56.142  1.00  0.00      SORU
+ATOM      2  H11 SOR D   1      37.709  33.517  56.890  1.00  0.00      SORU
+ATOM      3  H12 SOR D   1      36.919  33.212  55.297  1.00  0.00      SORU
+ATOM      4  O1  SOR D   1      37.497  35.169  55.626  1.00  0.00      SORU
+ATOM      5  HO1 SOR D   1      37.264  35.812  56.312  1.00  0.00      SORU
+ATOM      6  C2  SOR D   1      35.639  34.181  56.758  1.00  0.00      SORU
+ATOM      7  H2  SOR D   1      34.993  34.684  55.997  1.00  0.00      SORU
+ATOM      8  O2  SOR D   1      35.773  35.046  57.898  1.00  0.00      SORU
+ATOM      9  HO2 SOR D   1      34.963  34.882  58.415  1.00  0.00      SORU
+ATOM     10  C3  SOR D   1      34.974  32.870  57.155  1.00  0.00      SORU
+ATOM     11  H3  SOR D   1      35.091  32.166  56.300  1.00  0.00      SORU
+ATOM     12  O3  SOR D   1      35.644  32.277  58.282  1.00  0.00      SORU
+ATOM     13  HO3 SOR D   1      36.171  32.998  58.654  1.00  0.00      SORU
+ATOM     14  C4  SOR D   1      33.474  33.070  57.398  1.00  0.00      SORU
+ATOM     15  H4  SOR D   1      33.041  33.611  56.523  1.00  0.00      SORU
+ATOM     16  O4  SOR D   1      33.258  33.879  58.570  1.00  0.00      SORU
+ATOM     17  HO4 SOR D   1      32.601  33.391  59.099  1.00  0.00      SORU
+ATOM     18  C5  SOR D   1      32.738  31.752  57.565  1.00  0.00      SORU
+ATOM     19  H5  SOR D   1      33.200  31.140  58.375  1.00  0.00      SORU
+ATOM     20  O5  SOR D   1      32.840  31.051  56.319  1.00  0.00      SORU
+ATOM     21  HO5 SOR D   1      33.164  30.167  56.527  1.00  0.00      SORU
+ATOM     22  C6  SOR D   1      31.263  31.989  57.805  1.00  0.00      SORU
+ATOM     23  H61 SOR D   1      30.651  31.153  57.392  1.00  0.00      SORU
+ATOM     24  H62 SOR D   1      30.922  32.929  57.313  1.00  0.00      SORU
+ATOM     25  O6  SOR D   1      31.036  32.063  59.216  1.00  0.00      SORU
+ATOM     26  HO6 SOR D   1      30.305  31.467  59.420  1.00  0.00      SORU
+TER      27      SORU     1
+END

@@ -1,0 +1,45 @@
+tolerance 2.0
+filetype pdb
+output  system.pdb 
+
+structure ../../../../pdb/protein.pdb 
+  number 1 
+  fixed 42.157 42.157 42.157 0. 0. 0. 
+  centerofmass 
+end structure
+
+structure ../../../../pdb/BET.pdb 
+  number 40 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/SOR.pdb 
+  number 124 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/TAU.pdb 
+  number 4 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/GPC.pdb 
+  number 112 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/URE.pdb 
+  number 284 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/SOL.pdb 
+  number 16000 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+
+structure ../../../../pdb/CLA.pdb 
+  number 8 
+  inside box 0. 0. 0. 83.315 83.315 83.315 
+end structure
+

@@ -1,0 +1,40 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     7/15/25     15:57: 8      CREATED BY USER: charmm-gui              
+ATOM      1  N   GPC G   1       0.510  -4.040  -2.625  1.00  0.00      GPC 
+ATOM      2  C1  GPC G   1       0.243  -2.574  -2.345  1.00  0.00      GPC 
+ATOM      3  C2  GPC G   1       1.799  -4.230  -3.361  1.00  0.00      GPC 
+ATOM      4  C3  GPC G   1      -0.624  -4.586  -3.445  1.00  0.00      GPC 
+ATOM      5  C4  GPC G   1       0.565  -4.779  -1.317  1.00  0.00      GPC 
+ATOM      6  H11 GPC G   1       0.200  -1.992  -3.259  1.00  0.00      GPC 
+ATOM      7  H12 GPC G   1       1.031  -2.133  -1.743  1.00  0.00      GPC 
+ATOM      8  H21 GPC G   1       2.635  -3.853  -2.784  1.00  0.00      GPC 
+ATOM      9  H22 GPC G   1       1.783  -3.712  -4.313  1.00  0.00      GPC 
+ATOM     10  H23 GPC G   1       1.974  -5.282  -3.555  1.00  0.00      GPC 
+ATOM     11  H31 GPC G   1      -0.708  -4.062  -4.390  1.00  0.00      GPC 
+ATOM     12  H32 GPC G   1      -1.563  -4.428  -2.918  1.00  0.00      GPC 
+ATOM     13  H33 GPC G   1      -0.517  -5.643  -3.632  1.00  0.00      GPC 
+ATOM     14  H41 GPC G   1      -0.360  -4.620  -0.767  1.00  0.00      GPC 
+ATOM     15  H42 GPC G   1       1.363  -4.399  -0.689  1.00  0.00      GPC 
+ATOM     16  H43 GPC G   1       0.697  -5.841  -1.456  1.00  0.00      GPC 
+ATOM     17  C5  GPC G   1      -1.070  -2.345  -1.602  1.00  0.00      GPC 
+ATOM     18  H51 GPC G   1      -1.036  -2.885  -0.624  1.00  0.00      GPC 
+ATOM     19  H52 GPC G   1      -1.931  -2.728  -2.198  1.00  0.00      GPC 
+ATOM     20  P   GPC G   1      -2.472  -0.567  -0.496  1.00  0.00      GPC 
+ATOM     21  O3  GPC G   1      -2.610   0.896  -0.397  1.00  0.00      GPC 
+ATOM     22  O4  GPC G   1      -2.400  -1.361   0.748  1.00  0.00      GPC 
+ATOM     23  O1  GPC G   1      -1.209  -0.948  -1.398  1.00  0.00      GPC 
+ATOM     24  O2  GPC G   1      -3.675  -1.149  -1.378  1.00  0.00      GPC 
+ATOM     25  CG1 GPC G   1      -4.953  -1.026  -0.734  1.00  0.00      GPC 
+ATOM     26 HG11 GPC G   1      -5.189   0.049  -0.534  1.00  0.00      GPC 
+ATOM     27 HG12 GPC G   1      -4.970  -1.583   0.234  1.00  0.00      GPC 
+ATOM     28  CG2 GPC G   1      -6.104  -1.589  -1.593  1.00  0.00      GPC 
+ATOM     29 HG21 GPC G   1      -5.936  -2.676  -1.766  1.00  0.00      GPC 
+ATOM     30  OG2 GPC G   1      -6.096  -0.920  -2.849  1.00  0.00      GPC 
+ATOM     31  HO2 GPC G   1      -5.165  -0.670  -2.936  1.00  0.00      GPC 
+ATOM     32  CG3 GPC G   1      -7.457  -1.392  -0.863  1.00  0.00      GPC 
+ATOM     33 HG31 GPC G   1      -7.601  -0.305  -0.671  1.00  0.00      GPC 
+ATOM     34 HG32 GPC G   1      -7.424  -1.917   0.117  1.00  0.00      GPC 
+ATOM     35  OG3 GPC G   1      -8.544  -1.891  -1.637  1.00  0.00      GPC 
+ATOM     36  HO3 GPC G   1      -8.313  -1.624  -2.537  1.00  0.00      GPC 
+TER      37      GPC      1
+END

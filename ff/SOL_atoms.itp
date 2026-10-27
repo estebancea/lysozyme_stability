@@ -1,0 +1,4 @@
+[ atomtypes ] 
+; name	   at.num	  mass	   charge	ptype	   sigma	       epsilon	    sigma_14	       epsilon_14
+    HT     1     1.008000    0.000     A  0.040001352445  0.4184000  ; Modified TIPS3P eps=0.1
+    OT     8    15.999400    0.000     A  0.315057422683  0.6363864  ; TIPS3P WATER OXYGEN

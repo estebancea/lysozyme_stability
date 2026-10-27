@@ -1,0 +1,7 @@
+TITLE     1 CLA
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   18.682   18.682   18.682  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  CLA CLA     1      17.560   8.390   2.570  1.00  0.00                            
+TER
+ENDMDL

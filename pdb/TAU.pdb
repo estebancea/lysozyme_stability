@@ -1,0 +1,18 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     7/15/25     16:22:53      CREATED BY USER: charmm-gui              
+ATOM      1  C1  TAU T   1       1.277  -0.491   0.614  1.00  0.00      TAU 
+ATOM      2  C2  TAU T   1       0.995   0.663  -0.377  1.00  0.00      TAU 
+ATOM      3  S   TAU T   1      -0.765   1.074  -0.510  1.00  0.00      TAU 
+ATOM      4  O1  TAU T   1      -1.397   0.080  -1.335  1.00  0.00      TAU 
+ATOM      5  O2  TAU T   1      -0.864   2.476  -0.802  1.00  0.00      TAU 
+ATOM      6  O3  TAU T   1      -1.234   0.860   1.015  1.00  0.00      TAU 
+ATOM      7  N   TAU T   1       2.676  -0.997   0.798  1.00  0.00      TAU 
+ATOM      8  H1  TAU T   1       0.625  -1.354   0.337  1.00  0.00      TAU 
+ATOM      9  H2  TAU T   1       0.939  -0.150   1.624  1.00  0.00      TAU 
+ATOM     10  H3  TAU T   1       1.302   0.356  -1.400  1.00  0.00      TAU 
+ATOM     11  H4  TAU T   1       1.542   1.584  -0.098  1.00  0.00      TAU 
+ATOM     12  H5  TAU T   1      -1.376   1.651   1.550  1.00  0.00      TAU 
+ATOM     13  H6  TAU T   1       3.293  -0.401   1.343  1.00  0.00      TAU 
+ATOM     14  H7  TAU T   1       3.173  -1.232  -0.057  1.00  0.00      TAU 
+TER      15      TAU      1
+END

@@ -1,0 +1,6 @@
+[ atomtypes ] 
+; name	   at.num	  mass	   charge	ptype	   sigma	       epsilon	    sigma_14	       epsilon_14
+    OTM   15.99940    -0.910       A       0.32660      0.63790
+    NTM   14.0067      0.700       A       0.29260      0.83600
+    CTM   12.01100    -0.260       A       0.36000      0.28260
+    HTM   1.00800      0.110       A       0.21010      0.07730

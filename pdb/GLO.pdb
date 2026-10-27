@@ -1,0 +1,18 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     8/ 5/22      8: 3:44      CREATED BY USER: apache                  
+ATOM      1  C1  GLO M   1       4.716   1.046   0.061  1.00  0.00      GLO 
+ATOM      2  H11 GLO M   1       4.605   1.548  -0.928  1.00  0.00      GLO 
+ATOM      3  H12 GLO M   1       4.942   1.833   0.812  1.00  0.00      GLO 
+ATOM      4  O1  GLO M   1       5.834   0.162  -0.028  1.00  0.00      GLO 
+ATOM      5  HO1 GLO M   1       5.447  -0.619  -0.453  1.00  0.00      GLO 
+ATOM      6  C2  GLO M   1       3.431   0.317   0.442  1.00  0.00      GLO 
+ATOM      7  H2  GLO M   1       3.384   0.139   1.540  1.00  0.00      GLO 
+ATOM      8  O2  GLO M   1       3.387  -0.940  -0.272  1.00  0.00      GLO 
+ATOM      9  HO2 GLO M   1       2.927  -1.547   0.323  1.00  0.00      GLO 
+ATOM     10  C3  GLO M   1       2.269   1.169  -0.050  1.00  0.00      GLO 
+ATOM     11  H31 GLO M   1       2.509   1.630  -1.033  1.00  0.00      GLO 
+ATOM     12  H32 GLO M   1       2.080   1.996   0.673  1.00  0.00      GLO 
+ATOM     13  O3  GLO M   1       1.065   0.413  -0.204  1.00  0.00      GLO 
+ATOM     14  HO3 GLO M   1       1.332  -0.305  -0.796  1.00  0.00      GLO 
+TER      15      GLO      1
+END
